@@ -1,0 +1,109 @@
+1) User Id 
+ //input[@name='username']
+
+2)new password 
+//input[@name='password']
+
+3)Repeated password
+//input[@name='repeatedPassword']
+
+4)First name
+//input[@name='account.firstName']
+
+5)Last name
+//input[@name='account.lastName']
+
+6)Email
+//input[@name='account.email']
+
+7) Phone
+//input[@name='account.phone']
+
+8)Address1
+//input[@name='account.address1']
+
+9)Address2
+//input[@name='account.address2']
+
+10)City
+//input[@name='account.city']
+
+11)State
+//input[@name='account.state']
+
+12)ZIP
+//input[@name='account.zip']
+
+13)Country
+//input[@name='account.country']
+
+14)Language Preference
+//select[@name='account.languagePreference']
+
+15)Favourite Category
+//select[@name='account.favouriteCategoryId']
+
+16)Enable My List
+//input[@name='account.listOption']
+
+17)Enable MyBanner
+//input[@name='account.bannerOption']
+
+18)Save Account information
+//input[@name='newAccount']
+
+19)Search input
+//input[@name='keyword']
+
+20)Search button
+//input[@name='searchProducts']
+
+21)cart image
+//img[@name='img_cart']
+
+22)sign in page username
+//input[@name='username']
+
+23)sign in page password
+//input[@name='password']
+
+24)Logon button
+//input[@name='signon']
+
+25)shopping cart Quantity
+//input[@name='EST-1']
+
+26)Update cart in shopping cart
+//input[@name='updateCartQuantities']
+
+
+
+Amazon
+1 )Search bar 
+//input[@name='field-keywords']
+
+2)email in login
+//input[@name='email']
+
+3)In location Chose your location
+//input[@id='GLUXZipUpdateInput']
+
+in create account
+4)your name
+//input[@name='customerName']
+
+5)email
+//input[@name='email']
+
+6)password
+//input[@name='password']
+
+7)Re-enter password
+//input[@name='passwordCheck']
+
+8)Create your amazon account button
+//input[@type='submit']
+
+9)Business email 
+//input[@name='businessEmail']
+
